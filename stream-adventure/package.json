@@ -1,0 +1,23 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beep_boop.js",
+  "dependencies": {
+    "concat-stream": "^1.6.2",
+    "duplexer2": "^0.1.4",
+    "request": "^2.87.0",
+    "split": "^1.0.1",
+    "stream-combiner": "^0.2.2",
+    "tar": "^4.4.4",
+    "through2": "^2.0.3",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
