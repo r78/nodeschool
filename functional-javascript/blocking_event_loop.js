@@ -8,7 +8,7 @@ function repeat(operation, num) {
       return repeat(operation, --num)
     })
   } else { 
-    /async
+    //async
     return repeat(operation, --num)
   }
 }
